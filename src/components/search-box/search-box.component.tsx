@@ -1,6 +1,6 @@
-import React from 'react';
-
 import './search-box.styles.css';
+
+const name: string = '123456'
 
 const SearchBox = ({className, placeholder, onChangeHandler}) =>(
     <input 
